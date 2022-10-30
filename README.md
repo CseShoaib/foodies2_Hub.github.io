@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -30,8 +30,6 @@
       <section class="text-gray-600 body-font">
         <div class="container px-5 py-24 mx-auto flex flex-wrap">
           <div class="lg:w-2/3 mx-auto">
-            <div class="flex flex-wrap w-full bg-gray-100 py-32 px-10 relative mb-4">
-              <img alt="gallery" class="w-full object-cover h-full object-center block opacity-25 absolute inset-0" src=https://source.unsplash.com/random/820×340/?fruit>
               <div class="text-center relative  w-half">
                 <h2 class="text-2xl text-gray-900 font-medium title-font mb-2">Fresh Fruits</h2>
                 <p class="leading-relaxed">Have fresh fruit have healthy life.</p>
